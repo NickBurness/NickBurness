@@ -12,7 +12,7 @@ I store all my personal projects, learning resources and fun code snippets here 
 - CSS  
 - Bass Guitar :guitar:  
 
-## Where can you find me?
+## Where can you find me? :earth_africa:  
 [Twitter](https://www.twitter.com/cleanCodeNick)  
 [Here](https://wwww.github.com/NickBurness):octocat:
 
