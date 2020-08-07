@@ -1,4 +1,4 @@
-### Sup, I'm Nick 👋
+# Sup, I'm Nick 👋
 
 ## What do I do? :walking:
 I'm a junior developer supporting the education sector in the UK. Working hard to learn more every day while doing what I love :heart:  
