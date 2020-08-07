@@ -1,18 +1,18 @@
 # Sup, I'm Nick 👋
 
-## What do I do? :walking:
-I'm a junior developer supporting the education sector in the UK. Working hard to learn more every day while doing what I love :heart:  
+I store all my personal projects, study materials and fun code snippets here on my GitHub. I do aim to deliver and make public repos of software I build in the future. So be sure to watch this space. :wink:
 
-I store all my personal projects, learning resources and fun code snippets here on my GitHub, though I aim to upload more frequently in the future.
+## :walking: What do I do?  
+I'm a junior developer supporting the education sector in the UK. Right now I live in Manchester, UK. You can usually find me storing myself away playing video games, studying hard and practicing my coding skills.
 
-## What am I learning? :books:
-- C#  
-- SQL  
-- JavaScript  
-- CSS  
-- Bass Guitar :guitar:  
+## :books: What am I currently learning? 
+- C# and more specifically ASP.NetCore  
+- SQL, I must master the art of databases  
+- JavaScript - Ofcourse 
+- HTML/CSS - I want to contribute to making the web accesible!
+- The Bass Guitar :guitar:  
 
-## Where can you find me? :earth_africa:  
+## :earth_africa: Where can you find me? 
 [Twitter](https://www.twitter.com/cleanCodeNick)  
 [Here](https://wwww.github.com/NickBurness):octocat:
 
