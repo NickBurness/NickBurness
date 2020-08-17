@@ -14,6 +14,6 @@ I'm a junior developer supporting the education sector in the UK. Right now I li
 
 ## :earth_africa: Where can you find me? 
 [Twitter](https://www.twitter.com/cleanCodeNick)  
-[Here](https://wwww.github.com/NickBurness):octocat:
+[Here](https://github.com/NickBurness/):octocat:
 
 
