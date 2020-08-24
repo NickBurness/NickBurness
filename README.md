@@ -1,6 +1,4 @@
-# Sup, I'm Nick 👋
-
-I store all my personal projects, study materials and fun code snippets here on my GitHub. I do aim to deliver and make public repos of software I build in the future. So be sure to watch this space.
+# Sup, I'm Nick!
 
 ## :walking: A bit about me...
 I have two pets a :snake: and a :cat:
