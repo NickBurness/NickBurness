@@ -1,4 +1,4 @@
-# Sup, I'm Nick!
+# Sup, I'm Nick! [🌐](https://www.twitter.com/cleanCodeNick)  
 
 ## :walking: A bit about me...
 I have two pets a :snake: and a :cat:
@@ -10,9 +10,6 @@ I'm also a junior .net developer supporting the education sector in the UK. Righ
 - SQL, I must master the art of databases  
 - JavaScript - Ofcourse 
 - HTML/CSS - Accessible, yet pretty websites for all!
-- The Bass Guitar :guitar:  
-
-## :earth_africa: Where can you find me? 
-[Twitter](https://www.twitter.com/cleanCodeNick)  
+- The Bass Guitar :guitar: 
 
 
