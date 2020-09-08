@@ -1,6 +1,6 @@
-# Sup, I'm Nick! [🌐](https://www.twitter.com/cleanCodeNick)  
+# Sup
 
-## :walking: A bit about me...
+## :walking: A little bit about me...
 I have two pets a :snake: and a :cat:
 
 I'm also a junior .net developer supporting the education sector in the UK. Right now I live in Manchester. You can usually find me storing myself away playing video games, studying hard and practicing my coding skills.
