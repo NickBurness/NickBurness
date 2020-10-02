@@ -1,15 +1,8 @@
-# Sup
+# :pushpin:Quicklinks
 
-## :walking: A little bit about me...
-I have two pets a :snake: and a :cat:
-
-I'm also a junior .net developer supporting the education sector in the UK. Right now I live in Manchester. You can usually find me storing myself away playing video games, studying hard and practicing my coding skills.
-
-## :books: What am I currently learning? 
-- C# and more specifically ASP.NetCore  
-- SQL, I must master the art of databases  
-- JavaScript - Ofcourse 
-- HTML/CSS - Accessible, yet pretty websites for all!
-- The Bass Guitar :guitar: 
-
-
+**Tech Docs**  
+>[MDN Web Docs](https://developer.mozilla.org/en-US/)  
+>[C#](https://docs.microsoft.com/en-us/dotnet/csharp/)  
+>[ASP.NETCore](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)  
+>[SQL](https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15)  
+>[WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)  
